@@ -1,5 +1,5 @@
 CREATE TABLE Subjects(
 	SubjectID int NOT NULL PRIMARY KEY,
-	SubjectName varchar(50) NULL,
+	SubjectName varchar(50) NULL
 );	
 
